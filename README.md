@@ -25,7 +25,7 @@ lib/
 │   │
 │   └── database/
 │       ├── database_helper.dart
-│       └── tables.dart
+│       └── databaseSqlite.dart
 │
 ├── features/
 │
